@@ -32,3 +32,6 @@ C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\obj\Debu
 C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\obj\Debug\net10.0\TaskManager.Api.genruntimeconfig.cache
 C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\obj\Debug\net10.0\ref\TaskManager.Api.dll
 C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\obj\Debug\net10.0\TaskManager.Api.sourcelink.json
+C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\d.peter\Desktop\task-manager-fullstack\backend\TaskManager.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
