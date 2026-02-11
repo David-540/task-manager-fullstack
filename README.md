@@ -1,7 +1,7 @@
 Task Manager – Full Stack Application (Work in Progress)
 
-> **This project is actively being developed and regularly updated.  
-> Features, structure, and implementation details may change
+> **Dieses Projekt wird aktiv weiterentwickelt und aktualisiert.
+> Funktionen, Struktur und Implementierungsdetails können (bzw. werden) sich ändern.
 
 ---
 
@@ -68,5 +68,6 @@ Integration with backend API is planned
 Frontend will eventually handle task display, creation and updates via HTTP requests
 
 Mein Projekt hier ist Teil einer gezielten Vorbereitung auf mögliche zukünftige Aufgaben und soll kontinuierliches Lernen und Weiterentwicklung widerspiegeln >:)
+
 
 
