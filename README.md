@@ -67,5 +67,6 @@ Backend may get edited a bit
 Integration with backend API is planned
 Frontend will eventually handle task display, creation and updates via HTTP requests
 
-Mein Projekt hier ist Teil einer gezielten Vorbereitung auf mögliche zukünftige Aufgaben und soll kontinuierliches Lernen und Weiterentwicklung widerspiegeln
+Mein Projekt hier ist Teil einer gezielten Vorbereitung auf mögliche zukünftige Aufgaben und soll kontinuierliches Lernen und Weiterentwicklung widerspiegeln >:)
+
 
